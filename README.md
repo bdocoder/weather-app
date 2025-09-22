@@ -99,4 +99,4 @@ Intl.DateTimeFormat("en", { dateStyle: "long" }).format(...)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/bdocoder)
+- Frontend Mentor - [@bdocoder](https://www.frontendmentor.io/profile/bdocoder)
